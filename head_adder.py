@@ -1,8 +1,3 @@
-# Copyright 2022 MosaicML Composer authors
-# SPDX-License-Identifier: Apache-2.0
-
-"""Core Exponential Moving Average (EMA) classes and functions."""
-
 from __future__ import annotations
 
 import copy
